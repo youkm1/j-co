@@ -6,9 +6,9 @@
 
 
 ### 파일 이름 설정 기법
-- 리트코드, "leet-[Practices'number]"
-- 프로그래머스, "program-[Practices'number]"
-- 백준, "BOJ-[Practices'number]"
+- 리트코드, "leet-[Practice's number]"
+- 프로그래머스, "program-[Practice's number]"
+- 백준, "BOJ-[Practice's number]"
 
 
 코드에 대한 자세한 설명은 이 블로그에서 이어나가겠습니다.
